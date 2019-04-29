@@ -1,0 +1,38 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="66" />
+      <entry action="$Delete" count="90" />
+      <entry action="$Paste" count="127" />
+      <entry action="$SelectAll" count="33" />
+      <entry action="$Undo" count="990" />
+      <entry action="About" count="2" />
+      <entry action="ActivateGradleToolWindow" count="1" />
+      <entry action="ActivateProjectToolWindow" count="4" />
+      <entry action="ActivateStructureToolWindow" count="2" />
+      <entry action="Android.AnalyzeApk" count="2" />
+      <entry action="Android.BuildApk" count="12" />
+      <entry action="Android.CreateResourceDirectory" count="3" />
+      <entry action="Android.CreateSampleDataDirectory" count="1" />
+      <entry action="Android.FixAndroidRunConfigurations" count="1" />
+      <entry action="Android.GenerateSignedApk" count="179" />
+      <entry action="Android.LinkExternalCppProject" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="18" />
+      <entry action="Android.RunAndroidSdkManager" count="13" />
+      <entry action="Android.SyncProject" count="85" />
+      <entry action="AndroidConnectDebuggerAction" count="5" />
+      <entry action="AndroidUnusedResourceAction" count="1" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CleanGradleProject" count="51" />
+      <entry action="CloseAllEditors" count="3" />
+      <entry action="CloseAllEditorsButActive" count="3" />
+      <entry action="CommentByBlockComment" count="54" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="Convert string literal to dollar-slashy string" count="1" />
+      <entry action="CreateLibraryFromFile" count="1" />
+      <entry action="Debug" count="13" />
+      <entry action="DialogOkAction Enter" count="44" />
+      <entry action="EditorBackSpace" count="4697" />
+      <entry action="EditorChooseLookupItem" count="905" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorCodeBlockEnd" count="
